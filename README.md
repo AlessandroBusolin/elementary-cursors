@@ -45,7 +45,7 @@ Then make the theme by running the make script in the [src/cursors/pngs](src/cur
 "elementary Cursor Theme" ridisegnato per Linux Mint
 ====================================================
 
-Un tema per il cursore di elementary OS ridisegnato per Linux Mint
+Un tema per il cursore di elementary OS ridisegnato per Linux Mint.
 
 Questi cursori sono opere d'arte gratuite; li puoi redistribuire e/o modificare secondo i termini della [GNU General Public License version 3](http://www.gnu.org/licenses/gpl.txt).
 
@@ -55,18 +55,18 @@ Copia la cartella 'elementary' dentro '/usr/share/icons', quindi imposta il curs
 
     gsettings set org.gnome.desktop.interface cursor-theme 'elementary'
 
-Ma per fare un cambiamento a tutti i livelli del sistema devi eseguire i seguenti comandi:
+Per impostare il pacchetto di cursori come il predefinito di sistema, esegui i seguenti comandi:
 
     sudo update-alternatives --install /usr/share/icons/default/index.theme x-cursor-theme /usr/share/icons/elementary/cursor.theme 13
     sudo update-alternatives --set x-cursor-theme /usr/share/icons/elementary/cursor.theme
 
-Quindi esegui il log out per rendere effettivi i cambiamenti.
+Quindi effettua il log out per rendere effettivi i cambiamenti.
 
-Per l'installazione manuale, potrebbe essere necessario che modifichi le autorizzazioni dei file copiati (a 755) dopo la copia, per poter utilizzare il tema.
+Per l'installazione manuale, potrebbe essere necessario modificare le autorizzazioni dei file copiati (impostando il valore a 755) dopo la copia, per poter utilizzare il tema.
 
 ### Usare il sorgente
 
-Ci sono degli script che semplificano il processo di rendering; per avviarli (e modificare le icone) ti serve:
+Ci sono degli script che semplificano il processo di rendering; per avviarli (e modificare le icone) ti servono:
 
  * inkscape
  * python
