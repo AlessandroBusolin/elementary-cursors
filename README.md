@@ -8,7 +8,7 @@ elementary Cursor Theme redesigned for Linux Mint
 
 ### General informations
 
-A cursor theme for elementary OS redesigned for Linux Mint
+A cursor theme for elementary OS redesigned for Linux Mint.
 
 These cursors are free artwork; you can redistribute them and/or modify them under the terms of the [GNU General Public License version 3](http://www.gnu.org/licenses/gpl.txt).
 
