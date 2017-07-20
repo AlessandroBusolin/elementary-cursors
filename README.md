@@ -45,6 +45,10 @@ Then make the theme by running the make script in the [src/cursors/pngs](src/cur
 "elementary Cursor Theme" ridisegnato per Linux Mint
 ====================================================
 
+### Anteprima
+
+[![Preview](https://github.com/AlessandroBusolin/elementary-cursors-for-Mint/blob/master/preview/elementary.png)](#features)
+
 Un tema per il cursore di elementary OS ridisegnato per Linux Mint.
 
 Questi cursori sono opere d'arte gratuite; li puoi redistribuire e/o modificare secondo i termini della [GNU General Public License version 3](http://www.gnu.org/licenses/gpl.txt).
