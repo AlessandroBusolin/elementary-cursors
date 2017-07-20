@@ -6,6 +6,8 @@ elementary Cursor Theme redesigned for Linux Mint
 <img src="https://github.com/AlessandroBusolin/elementary-cursors-for-Mint/blob/master/preview/elementary.png">
 </p>
 
+### General informations
+
 A cursor theme for elementary OS redesigned for Linux Mint
 
 These cursors are free artwork; you can redistribute them and/or modify them under the terms of the [GNU General Public License version 3](http://www.gnu.org/licenses/gpl.txt).
@@ -52,6 +54,8 @@ Then make the theme by running the make script in the [src/cursors/pngs](src/cur
 <p align="center">
 <img src="https://github.com/AlessandroBusolin/elementary-cursors-for-Mint/blob/master/preview/elementary.png">
 </p>
+
+### Informazioni generali
 
 Un tema per il cursore di elementary OS ridisegnato per Linux Mint.
 
