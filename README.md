@@ -2,7 +2,9 @@ elementary Cursor Theme redesigned for Linux Mint
 =================================================
 ### Preview
 
-[![Preview](https://github.com/AlessandroBusolin/elementary-cursors-for-Mint/blob/master/preview/elementary.png)](#features)
+<p align="center">
+<img src="https://github.com/AlessandroBusolin/elementary-cursors-for-Mint/blob/master/preview/elementary.png">
+</p>
 
 A cursor theme for elementary OS redesigned for Linux Mint
 
@@ -47,7 +49,9 @@ Then make the theme by running the make script in the [src/cursors/pngs](src/cur
 
 ### Anteprima
 
-[![Preview](https://github.com/AlessandroBusolin/elementary-cursors-for-Mint/blob/master/preview/elementary.png)](#features)
+<p align="center">
+<img src="https://github.com/AlessandroBusolin/elementary-cursors-for-Mint/blob/master/preview/elementary.png">
+</p>
 
 Un tema per il cursore di elementary OS ridisegnato per Linux Mint.
 
