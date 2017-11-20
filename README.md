@@ -1,5 +1,5 @@
-elementary Cursor Theme redesigned for Linux Mint
-=================================================
+elementary Cursor Theme redesigned for Linux Mint.
+==================================================
 ### Preview
 
 <p align="center">
@@ -46,8 +46,8 @@ Then make the theme by running the make script in the [src/cursors/pngs](src/cur
 
 -----------
 
-"elementary Cursor Theme" ridisegnato per Linux Mint
-====================================================
+"elementary Cursor Theme" ridisegnato per Linux Mint.
+=====================================================
 
 ### Anteprima
 
