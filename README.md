@@ -16,6 +16,8 @@ A cursor theme for elementary OS redesigned for Linux Mint.
 
 These cursors are free artwork; you can redistribute them and/or modify them under the terms of the [GNU General Public License version 3](http://www.gnu.org/licenses/gpl.txt).
 
+[![GitHub release][version-image]][version-url] ![GitHub total][total-image]
+
 ### Installing 
 
 Copy the 'elementary' folder into '/usr/share/icons', then set your cursor theme using your favourite tool or:
@@ -98,3 +100,10 @@ Quindi crea il tema attraverso l'esecuzione dello script "make" nella cartella [
     bash make.sh
 
 -----------
+
+<!-- Markdown link & img dfn's -->
+[version-image]: https://img.shields.io/github/release/AlessandroBusolin/elementary-cursors-for-Linux-Mint.svg?style=flat-square
+
+[total-image]: https://img.shields.io/github/downloads/AlessandroBusolin/elementary-cursors-for-Linux-Mint/total.svg
+
+[version-url]: https://github.com/AlessandroBusolin/elementary-cursors-for-Linux-Mint/releases/latest
