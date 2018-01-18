@@ -2,9 +2,7 @@
 <img src="https://github.com/AlessandroBusolin/elementary-cursors-for-Linux-Mint/blob/master/src/cursors/Linux_Mint_Official_Logo.png">
 </p>
 
-<p align="center">
 [![GitHub release][version-image]][version-url] ![GitHub total][total-image]
-</p>
 
 elementary Cursor Theme redesigned for Linux Mint.
 ==================================================
