@@ -2,6 +2,10 @@
 <img src="https://github.com/AlessandroBusolin/elementary-cursors-for-Linux-Mint/blob/master/src/cursors/Linux_Mint_Official_Logo.png">
 </p>
 
+<p align="center">
+[![GitHub release][version-image]][version-url] ![GitHub total][total-image]
+</p>
+
 elementary Cursor Theme redesigned for Linux Mint.
 ==================================================
 ### Preview
@@ -15,8 +19,6 @@ elementary Cursor Theme redesigned for Linux Mint.
 A cursor theme for elementary OS redesigned for Linux Mint.
 
 These cursors are free artwork; you can redistribute them and/or modify them under the terms of the [GNU General Public License version 3](http://www.gnu.org/licenses/gpl.txt).
-
-[![GitHub release][version-image]][version-url] ![GitHub total][total-image]
 
 ### Installing 
 
