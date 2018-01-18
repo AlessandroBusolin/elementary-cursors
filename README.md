@@ -1,3 +1,5 @@
+![](https://scontent-mxp1-1.xx.fbcdn.net/v/t1.0-1/p200x200/18766027_1348269331877276_7398292169960827574_n.jpg?oh=1d018f37cb3b65159c75576317471abb&oe=5AFE44D7)
+
 elementary Cursor Theme redesigned for Linux Mint.
 ==================================================
 ### Preview
