@@ -7,11 +7,9 @@
 elementary Cursor Theme redesigned for Linux Mint.
 ==================================================
 ### Preview
-
 <p align="center">
 <img src="https://github.com/AlessandroBusolin/elementary-cursors-for-Linux-Mint/blob/master/preview/elementary.png">
 </p>
-
 ### General informations
 
 A cursor theme for elementary OS redesigned for Linux Mint.
