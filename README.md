@@ -54,11 +54,9 @@ Then make the theme by running the make script in the [src/cursors/pngs](src/cur
 =====================================================
 
 ### Anteprima
-
 <p align="center">
-<img src="https://github.com/AlessandroBusolin/elementary-cursors-for-Linux-Mint/blob/master/src/cursors/elementary.svg">
+<img src="https://github.com/AlessandroBusolin/elementary-cursors-for-Linux-Mint/blob/master/preview/elementary.png">
 </p>
-
 ### Informazioni generali
 
 Un tema per il cursore di elementary OS ridisegnato per Linux Mint.
