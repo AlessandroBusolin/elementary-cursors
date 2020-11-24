@@ -30,7 +30,9 @@ But to make a system-wide change run the following:
 Then log out and back in for the changes to take effect.
 
 For manual installation, you may have to change the copied files' permissions (to 755) after copying in order to use the theme.
+
 For example:
+
     sudo chmod 777 -R elementary
 
 ### Using the Source
@@ -79,7 +81,9 @@ Per impostare il pacchetto di cursori come il predefinito di sistema, esegui i s
 Quindi effettua il log out per rendere effettivi i cambiamenti.
 
 Per l'installazione manuale, potrebbe essere necessario modificare le autorizzazioni dei file copiati (impostando il valore a 755) dopo la copia, per poter utilizzare il tema.
+
 Per esempio:
+
     sudo chmod 777 -R elementary
 
 ### Usare il sorgente
